@@ -10,3 +10,6 @@
 [submodule "session.vim--Odding"]
 	path = session.vim--Odding
 	url = git://github.com/vim-scripts/session.vim--Odding.git
+[submodule "jQuery"]
+	path = jQuery
+	url = git://github.com/vim-scripts/jQuery.git
