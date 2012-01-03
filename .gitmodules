@@ -13,3 +13,6 @@
 [submodule "jQuery"]
 	path = jQuery
 	url = git://github.com/vim-scripts/jQuery.git
+[submodule "sparkup"]
+	path = sparkup
+	url = git://github.com/rstacruz/sparkup.git
