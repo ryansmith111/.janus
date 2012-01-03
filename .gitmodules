@@ -7,3 +7,6 @@
 [submodule "L9"]
 	path = L9
 	url = git://github.com/vim-scripts/L9.git
+[submodule "session.vim--Odding"]
+	path = session.vim--Odding
+	url = git://github.com/vim-scripts/session.vim--Odding.git
