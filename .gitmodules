@@ -1,0 +1,6 @@
+[submodule "headlights"]
+	path = headlights
+	url = git://github.com/vim-scripts/Headlights.git
+[submodule "fuzzyfinder"]
+	path = fuzzyfinder
+	url = git://github.com/vim-scripts/FuzzyFinder.git
