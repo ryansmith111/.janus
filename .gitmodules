@@ -1,21 +1,28 @@
 [submodule "headlights"]
 	path = headlights
 	url = git://github.com/vim-scripts/Headlights.git
+	ignore = dirty
 [submodule "fuzzyfinder"]
 	path = fuzzyfinder
 	url = git://github.com/vim-scripts/FuzzyFinder.git
+	ignore = dirty
 [submodule "L9"]
 	path = L9
 	url = git://github.com/vim-scripts/L9.git
+	ignore = dirty
 [submodule "session.vim--Odding"]
 	path = session.vim--Odding
 	url = git://github.com/vim-scripts/session.vim--Odding.git
+	ignore = dirty
 [submodule "jQuery"]
 	path = jQuery
 	url = git://github.com/vim-scripts/jQuery.git
+	ignore = dirty
 [submodule "sparkup"]
 	path = sparkup
 	url = git://github.com/rstacruz/sparkup.git
+	ignore = dirty
 [submodule "solarized"]
 	path = solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
+	ignore = dirty
