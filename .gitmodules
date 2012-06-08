@@ -29,3 +29,8 @@
 [submodule "vim-css-color"]
 	path = vim-css-color
 	url = https://github.com/skammer/vim-css-color
+	ignore = dirty
+[submodule "AutoClose"]
+	path = AutoClose
+	url = https://github.com/vim-scripts/AutoClose
+	ignore = dirty
