@@ -34,3 +34,6 @@
 	path = AutoClose
 	url = https://github.com/vim-scripts/AutoClose
 	ignore = dirty
+[submodule "scrollcolors"]
+	path = scrollcolors
+	url = https://github.com/vim-scripts/ScrollColors.git
