@@ -40,3 +40,6 @@
 [submodule "noderepl"]
 	path = noderepl
 	url = https://github.com/intuited/vim-noderepl.git
+[submodule "slime"]
+	path = slime
+	url = https://github.com/jpalardy/vim-slime
