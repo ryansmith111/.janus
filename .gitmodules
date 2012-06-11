@@ -37,3 +37,6 @@
 [submodule "scrollcolors"]
 	path = scrollcolors
 	url = https://github.com/vim-scripts/ScrollColors.git
+[submodule "noderepl"]
+	path = noderepl
+	url = https://github.com/intuited/vim-noderepl.git
