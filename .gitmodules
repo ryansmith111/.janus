@@ -37,9 +37,20 @@
 [submodule "scrollcolors"]
 	path = scrollcolors
 	url = https://github.com/vim-scripts/ScrollColors.git
+	ignore = dirty
 [submodule "noderepl"]
 	path = noderepl
 	url = https://github.com/intuited/vim-noderepl.git
+	ignore = dirty
 [submodule "slime"]
 	path = slime
 	url = https://github.com/jpalardy/vim-slime
+	ignore = dirty
+[submodule "powerline"]
+	path = powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+	ignore = dirty
+[submodule "javascript-syntax"]
+	path = javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
+	ignore = dirty
