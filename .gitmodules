@@ -54,3 +54,6 @@
 	path = javascript-syntax
 	url = https://github.com/jelera/vim-javascript-syntax.git
 	ignore = dirty
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/vim-scripts/nginx.vim.git
