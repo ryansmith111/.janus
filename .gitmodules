@@ -57,3 +57,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/vim-scripts/nginx.vim.git
+[submodule "vim-soy"]
+	path = vim-soy
+	url = https://github.com/vim-scripts/vim-soy.git
